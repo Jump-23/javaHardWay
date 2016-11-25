@@ -1,4 +1,4 @@
-import static java.util.System.*;
+import static java.lang.System.*;
 
 public class OverlyComplexFlag {
 	public static void main( String[] args ) {
